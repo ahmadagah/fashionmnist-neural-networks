@@ -1,0 +1,31 @@
+# Downloaded datasets (can be re-downloaded via PyTorch)
+data/
+
+# Saved model weights (generated during training)
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
+.env/

@@ -1,0 +1,116 @@
+{
+  "luminosity_normal": {
+    "grayscale_method": "luminosity",
+    "inverted": false,
+    "predicted_class": 8,
+    "predicted_label": "Bag",
+    "confidence": 0.2616383135318756,
+    "all_probabilities": {
+      "T-shirt/top": 0.15519633889198303,
+      "Trouser": 0.02922341227531433,
+      "Pullover": 0.20441484451293945,
+      "Dress": 0.10905640572309494,
+      "Coat": 0.10765879601240158,
+      "Sandal": 0.02117832750082016,
+      "Shirt": 0.11062069237232208,
+      "Sneaker": 0.0008504242869094014,
+      "Bag": 0.2616383135318756,
+      "Ankle Boot": 0.00016244313155766577
+    }
+  },
+  "luminosity_inverted": {
+    "grayscale_method": "luminosity",
+    "inverted": true,
+    "predicted_class": 9,
+    "predicted_label": "Ankle Boot",
+    "confidence": 0.6081981658935547,
+    "all_probabilities": {
+      "T-shirt/top": 0.016485029831528664,
+      "Trouser": 0.025689557194709778,
+      "Pullover": 0.0174731258302927,
+      "Dress": 0.015532422810792923,
+      "Coat": 0.013649399392306805,
+      "Sandal": 0.09148122370243073,
+      "Shirt": 0.014294912107288837,
+      "Sneaker": 0.1615077257156372,
+      "Bag": 0.035688452422618866,
+      "Ankle Boot": 0.6081981658935547
+    }
+  },
+  "average_normal": {
+    "grayscale_method": "average",
+    "inverted": false,
+    "predicted_class": 8,
+    "predicted_label": "Bag",
+    "confidence": 0.25884780287742615,
+    "all_probabilities": {
+      "T-shirt/top": 0.15846967697143555,
+      "Trouser": 0.029995204880833626,
+      "Pullover": 0.2033172845840454,
+      "Dress": 0.10687174648046494,
+      "Coat": 0.10838660597801208,
+      "Sandal": 0.021181518211960793,
+      "Shirt": 0.11184779554605484,
+      "Sneaker": 0.0009014569222927094,
+      "Bag": 0.25884780287742615,
+      "Ankle Boot": 0.00018094205006491393
+    }
+  },
+  "average_inverted": {
+    "grayscale_method": "average",
+    "inverted": true,
+    "predicted_class": 9,
+    "predicted_label": "Ankle Boot",
+    "confidence": 0.6135920286178589,
+    "all_probabilities": {
+      "T-shirt/top": 0.015894200652837753,
+      "Trouser": 0.024802329018712044,
+      "Pullover": 0.01688212901353836,
+      "Dress": 0.015143357217311859,
+      "Coat": 0.013237947598099709,
+      "Sandal": 0.09135571122169495,
+      "Shirt": 0.013833603821694851,
+      "Sneaker": 0.16092388331890106,
+      "Bag": 0.03433487191796303,
+      "Ankle Boot": 0.6135920286178589
+    }
+  },
+  "lightness_normal": {
+    "grayscale_method": "lightness",
+    "inverted": false,
+    "predicted_class": 8,
+    "predicted_label": "Bag",
+    "confidence": 0.2573659121990204,
+    "all_probabilities": {
+      "T-shirt/top": 0.15822482109069824,
+      "Trouser": 0.030422577634453773,
+      "Pullover": 0.20359638333320618,
+      "Dress": 0.10745551437139511,
+      "Coat": 0.10854864120483398,
+      "Sandal": 0.021206572651863098,
+      "Shirt": 0.11207117140293121,
+      "Sneaker": 0.0009221593500114977,
+      "Bag": 0.2573659121990204,
+      "Ankle Boot": 0.000186321820365265
+    }
+  },
+  "lightness_inverted": {
+    "grayscale_method": "lightness",
+    "inverted": true,
+    "predicted_class": 9,
+    "predicted_label": "Ankle Boot",
+    "confidence": 0.6124210953712463,
+    "all_probabilities": {
+      "T-shirt/top": 0.01598290540277958,
+      "Trouser": 0.024893704801797867,
+      "Pullover": 0.016987236216664314,
+      "Dress": 0.015198362991213799,
+      "Coat": 0.013334047980606556,
+      "Sandal": 0.09198085963726044,
+      "Shirt": 0.013880416750907898,
+      "Sneaker": 0.1609949916601181,
+      "Bag": 0.034326449036598206,
+      "Ankle Boot": 0.6124210953712463
+    }
+  }
+}
